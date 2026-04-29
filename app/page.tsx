@@ -277,7 +277,7 @@ export default function Home() {
                   </div>
                   <div>
                     <strong>Multi-cloud de verdade</strong>
-                    <span>Dominamos AWS, GCP e Azure. Escolhemos a melhor plataforma para cada caso — sem vi��s.</span>
+                    <span>Dominamos AWS, GCP e Azure. Escolhemos a melhor plataforma para cada caso — sem viés.</span>
                   </div>
                 </li>
                 <li>
