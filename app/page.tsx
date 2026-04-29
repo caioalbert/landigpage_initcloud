@@ -102,20 +102,7 @@ export default function Home() {
 
             {/* Google Cloud */}
             <div className="provider-card">
-              <svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg" style={{width: 60, height: 60}}>
-                {/* Red quadrant */}
-                <path d="M60 20 A40 40 0 0 1 80 25.86 L70 40 A20 20 0 0 0 60 35 Z" fill="#EA4335"/>
-                {/* Yellow quadrant */}
-                <path d="M80 25.86 A40 40 0 0 1 94.14 80 L80 70 A20 20 0 0 0 70 40 Z" fill="#FBBC04"/>
-                {/* Blue quadrant */}
-                <path d="M94.14 80 A40 40 0 0 1 60 100 L60 80 A20 20 0 0 0 80 70 Z" fill="#4285F4"/>
-                {/* Green quadrant */}
-                <path d="M60 100 A40 40 0 0 1 25.86 94.14 L40 80 A20 20 0 0 0 60 80 Z" fill="#34A853"/>
-                {/* Red-Green overlap on left */}
-                <path d="M25.86 94.14 A40 40 0 0 1 20 60 L35 60 A20 20 0 0 0 40 80 Z" fill="#EA4335"/>
-                {/* Blue center circle */}
-                <circle cx="60" cy="60" r="15" fill="#4285F4"/>
-              </svg>
+              <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg" alt="Google Cloud Platform" style={{width: 120, height: 50, objectFit: 'contain'}} />
               <span>Google Cloud Platform</span>
             </div>
 
