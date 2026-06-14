@@ -102,7 +102,7 @@ export default function Home() {
 
             {/* Google Cloud */}
             <div className="provider-card">
-              <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud Platform" style={{width: 60, height: 60, objectFit: 'contain'}} />
+              <img src="https://www.vectorlogo.zone/logos/googlecloud/google_cloud-icon.svg" alt="Google Cloud Platform" style={{width: 60, height: 60, objectFit: 'contain'}} />
               <span>Google Cloud Platform</span>
             </div>
 
@@ -144,7 +144,7 @@ export default function Home() {
           <div className="section-header">
             <p className="section-tag">Nossos Serviços</p>
             <h2>Tudo o que seu negócio precisa<br/>para operar na nuvem.</h2>
-            <p className="section-desc">Não importa se você está começando do zero ou quer melhorar o que já existe — a gente resolve.</p>
+            <p className="section-desc">Não importa se você está começando do zero ou quer melhorar o que já existe a gente resolve.</p>
           </div>
           <div className="services-grid">
 
