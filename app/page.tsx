@@ -102,7 +102,7 @@ export default function Home() {
 
             {/* Google Cloud */}
             <div className="provider-card">
-              <img src="https://www.vectorlogo.zone/logos/googlecloud/google_cloud-icon.svg" alt="Google Cloud Platform" style={{width: 60, height: 60, objectFit: 'contain'}} />
+              <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud Platform" style={{width: 60, height: 60, objectFit: 'contain'}} />
               <span>Google Cloud Platform</span>
             </div>
 
